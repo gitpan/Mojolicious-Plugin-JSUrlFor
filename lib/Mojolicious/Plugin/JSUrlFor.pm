@@ -1,7 +1,7 @@
 package Mojolicious::Plugin::JSUrlFor;
 use Mojo::Base 'Mojolicious::Plugin';
 
-our $VERSION = '0.07';
+our $VERSION = '0.08';
 use Mojo::ByteStream qw/b/;
 use Data::Dumper;
 use v5.10;
@@ -85,7 +85,7 @@ __END__
 
 =head1 NAME
 
-Mojolicious::Plugin::JSUrlFor - "url_for" for javascript
+Mojolicious::Plugin::JSUrlFor - Mojolicious "url_for" helper for javascript
 
 =head1 SYNOPSIS
 
@@ -154,6 +154,16 @@ L<Mojolicious::Plugin> and implements the following new ones.
   $plugin->register;
 
 Register plugin in L<Mojolicious> application.
+
+=head1 AUTHOR
+
+Viktor Turskyi <koorchik@cpan.org>
+
+=head1 BUGS
+
+Please report any bugs or feature requests to Github L<https://github.com/koorchik/Mojolicious-Plugin-JSUrlFor/>
+
+Also you can report bugs to CPAN RT
 
 =head1 SEE ALSO
 

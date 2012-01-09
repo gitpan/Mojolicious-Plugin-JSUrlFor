@@ -1,5 +1,5 @@
 {
-   "abstract" : "\"url_for\" for javascript",
+   "abstract" : "Mojolicious \"url_for\" helper for javascript",
    "author" : [
       "Viktor Turskyi <koorchik@cpan.org>"
    ],
@@ -37,5 +37,5 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.07"
+   "version" : "0.08"
 }
