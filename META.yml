@@ -21,4 +21,4 @@ requires:
   Mojolicious: '3.00'
 resources:
   repository: https://github.com/koorchik/Mojolicious-Plugin-JSUrlFor
-version: '0.12'
+version: '0.13'
