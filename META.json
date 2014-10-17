@@ -4,7 +4,7 @@
       "Viktor Turskyi <koorchik@cpan.org>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "ExtUtils::MakeMaker version 6.98, CPAN::Meta::Converter version 2.140640",
+   "generated_by" : "ExtUtils::MakeMaker version 6.98, CPAN::Meta::Converter version 2.142690",
    "license" : [
       "unknown"
    ],
@@ -42,5 +42,5 @@
          "url" : "https://github.com/koorchik/Mojolicious-Plugin-JSUrlFor"
       }
    },
-   "version" : "0.14"
+   "version" : "0.15"
 }
